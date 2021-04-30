@@ -1,0 +1,43 @@
+---
+course_id: 11-945-springfield-studio-fall-2005
+layout: course_section
+menu:
+  leftnav:
+    identifier: cb3c682194172cddeddb63ae5064bc5f
+    name: Readings
+    weight: 30
+title: Readings
+type: course
+uid: cb3c682194172cddeddb63ae5064bc5f
+
+---
+
+| SES # | TOPICS | READINGS |
+| --- | --- | --- |
+| 1 | Course Introduction | &nbsp; |
+| 2 | Background on North End Community | 1958 North End Urban Renewal Plan. pp. 1 - R-26.  {{< br >}}  {{< br >}}Brightwood/Memorial Square Neighborhood Plans.  {{< br >}}  {{< br >}}North End Strategic Plan (2003).  {{< br >}}  {{< br >}}[Springfield Practicum Final Report, 2004](/courses/11-945-springfield-studio-spring-2004/sections/projects). |
+| 3 | Economic Development Theories, Regions and Neighborhoods as Economic Units | Barnes and Ledebur. _The New Regional Economies_. Thousand Oaks, CA: Sage Publications, 1998, pp. 19-38. ISBN: 0761909397.  {{< br >}}  {{< br >}}Malizia and Feser. _Understanding Local Economic Development_. New Brunswick, NJ: Center for Urban Policy Research, 1999, pp. 51-55, 81-90, 123-133, 174-182, 195-201, 222-228, and 244-257. ISBN: 0882851632.  {{< br >}}  {{< br >}}Wiewel, Brown, and Morris. "The Linkage Between Regional and Neighborhood Development." In _Approaches to Economic Development_. Edited by Blair and Reese. Thousand Oaks, CA: Sage Publications, 1999, pp. 113-129. ISBN: 0761918841.  {{< br >}}  {{< br >}}Novak. "Neighborhood Initiative and the Regional Economy." In _Approaches to Economic Development_. Edited by Blair and Reese. Thousand Oaks, CA: Sage Publications, 1999, pp. 149-156. ISBN: 0761918841. |
+| 4 | Review/Discussion of North End Field Trip Project Resources and Work Plan | Amulya, Joy. "Summary of Critical Moments Reflection." Center for Reflective Community Practice Working Paper 2004-06. Cambridge, MA: MIT, 2004. ([PDF]({{< baseurl >}}/sections/readings/criticalmoments)) |
+| 5 | Regional Context: Greater Springfield Economy | _Western Mass Economic Review 2004_.  {{< br >}}  {{< br >}}_Regional Labor Market Profile, Hampden County, Summer 2004_. ([PDF](http://lmi2.detma.org/lmi/pdf/profiles/Hampden_Regional_Profile.pdf))  {{< br >}}  {{< br >}}Porter, Michael E. _Regional Competitiveness in the Pioneer Valley_. Cambridge, MA: Harvard Business School Institute for Strategy and Competitiveness, 2003. ([PDF](http://www.hbs.edu/faculty/Publication%20Files/MA_RCC_PioneerValley_eed60f82-6b7d-418f-98a1-32a10981cc7b.pdf))  {{< br >}}  {{< br >}}_Pioneer Valley Plan for Progress: Economic Strategies for the Region_. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)([PDF - 3.4 MB](http://www.pvpc.org/sites/default/files/06_pfp_bk.pdf)) |
+| 6 | Springfield Political Context | _Harry Spence HCED Lunch Talk_, February 3, 2005.  {{< br >}}  {{< br >}}Keough, Robert, and Michael Jonas. "Down but not Out." _Commonwealth Magazine_, Winter 2004.  {{< br >}}  {{< br >}}Roche, B. J. "Under Control?" _Commonwealth Magazine_, Summer 2005.  {{< br >}}  {{< br >}}Tantraphol, Roselyn. "Springfield: A City Under Siege." _Hartford Courant_, April 17, 2005. |
+| 7 | Work Session | Reese and Fasenfest. "What works best: Values and evaluation of local economic development policy." In _Approaches to Economic Development_. Edited by Blair and Reese. Thousand Oaks, CA: Sage Publications, 1999, pp. 278-291. ISBN: 0761918841.  {{< br >}}  {{< br >}}Organizational Research Services. _[Theory of Change: A Practical Tool for Action, Results and Learning](http://www.issuelab.org/research/theory_of_change_a_practical_tool_for_action_results_and_learning)_, 2004, pp. 1-17.  {{< br >}}  {{< br >}}Ross and Freidman. "The emerging third wave: New economic development strategies." In _Local Economic Development: Strategies for a Changing Economy_. Edited by Fosler. Washington, DC: International City/County Management Association, pp. 125-137. ISBN: 0873260856. |
+| 8 | Analytical Tools to Support Evaluation: Economic Development Refection Tools (Critical Moments) | Mt. Auburn Associates. _Fall River Economic Development Strategy_.  {{< br >}}  {{< br >}}Hammer, Siler George Associates. _Brockton Supermarket Study_.  {{< br >}}  {{< br >}}Karl F. Seidman Consulting Services, and BAE. _Real Estate Market Analysis: Old Central Fire Station Property_, Marlborough, MA, 2003, pp. 19-29.  {{< br >}}  {{< br >}}Clark, Peggy, and Amy J. Kays. _Labor Market Profiling_. Washington, DC: Aspen Institute, 1997, pp. 9-34. ISBN: 0898432170.  {{< br >}}  {{< br >}}Amuyla, Joy. "Summary of Critical Moments Reflection."  {{< br >}}  {{< br >}}———. "What is Reflective Practice?" |
+| 9 | Work Session | &nbsp; |
+| 10 | Work Session (cont.) | &nbsp; |
+| 11 | Work Session: Review of Preliminary Finding | &nbsp; |
+| 12 | Review of Findings/Draft Presentation | &nbsp; |
+| 13 | Reflection on Client Meeting and Decisions; Organization of Next Work Phase | &nbsp; |
+| 14 | ED Policies and Practices: Enterprise and Small Business Development | Blakely. _Planning Local Economic Development_. Thousand Oaks, CA: Sage Publications, 2002, chapter 8, pp. 217-235 and 248-249. ISBN: 0761924582.  {{< br >}}  {{< br >}}Edgcomb, Elaine, and Joyce Klein. _Opening Opportunities, Building Ownership: Fulfilling the Promise_. Washington, DC: Aspen Institute, chapters 1 and 2, pp. 9-31 (chapters 3 and 4 optional). ISBN: 0898434300. ([PDF - 1.2 MB](http://fieldus.org/publications/FulfillingthePromise.pdf))  {{< br >}}  {{< br >}}Kumar, Tara. "Informal microenterprise in the North End community-Springfield, MA." MCP Thesis, MIT, 2004, pp. 43-106. |
+| 15 | ED Policies and Practices: Workforce Development | Fleischer. _Extending Ladders: Findings from the Annie E. Casey Foundation's Jobs Initiative_, pp. 4-27. ([PDF - 1.8 MB](https://files.eric.ed.gov/fulltext/ED465069.pdf))  {{< br >}}  {{< br >}}Mt. Auburn Associates. _Workforce Development Strategy for Weinland Park Neighborhood_.  {{< br >}}  {{< br >}}Proscio, Tony. [_Structures of Opportunity: Developing the Neighborhood Jobs Initiative in Fort Worth, Texas_](http://www.mdrc.org/publications/73/overview.html). Oakland, CA: Manpower Demonstration Research Corporation, 2002, pp. 1-29. |
+| 16 | Work Session | &nbsp; |
+| 17 | Application of Models; Preliminary Ideas; Critical Moments Training | &nbsp; |
+| 18 | ED Policies and Practices: Real Estate and Commercial District Development | Blakely. _Planning Local Economic Development_. Thousand Oaks, CA: Sage Publications, 2002, chapter 7, pp. 179-196. ISBN: 0761924582.  {{< br >}}  {{< br >}}Martínez Hernández, Hernandez, Manuel Martinez. "Impact of Commercial Development on inner City Revitalization: An Analysis of Projects in Boston." M.C.P Thesis, MIT, 2001, pp. 20-40, 58-65, 89-95, and 115-124.  {{< br >}}  {{< br >}}Seidman, Karl. [_Revitalizing Commerce for American Cities_](https://www.innovations.harvard.edu/revitalizing-commerce-american-cities-practitioners-guide-urban-main-street-programs). Fannie Mae Foundation, 2004, chapters 1-3 and St Paul Case Studies, pp. 3-14 and 59-72.  {{< br >}}  {{< br >}}Simons, Robert A. _Turning Brownfields Into Greenbacks: Developing and Financing Environmentally Contaminated Urban Real Estate_. Washington, DC: Urban Land Institute, 1998, pp. 100-110. ISBN: 0874208513. |
+| 19 | ED Policies and Practices: Capital Market and Financing | Seidman. _Economic Development Finance_. Thousand Oaks, CA: Sage Publications, 2004, chapter 1 and 10, pp. 5-18 and 217-239. ISBN: 0761927093.  {{< br >}}  {{< br >}}Benjamin, Rubin, and Zielenbach. _Community Development Financial Institutions: Current Issues and Future Prospects_. ([PDF](http://www.federalreserve.gov/communityaffairs/national/CA_Conf_SusCommDev/pdf/zeilenbachsean.pdf))  {{< br >}}  {{< br >}}Grzywinski. _The New Old Fashioned Banking, Harvard Business Review_. (May-June 1991): 87-98. |
+| 20 | Work Session: Formulating and Detailing Proposals | &nbsp; |
+| 21 | Work Session: Plan Formulation and Refinement | &nbsp; |
+| 22 | Work Session: Preparing for Client Meeting | &nbsp; |
+| 23 | Review/Feedback on Initial Plans | &nbsp; |
+| 24 | Work Session: Finalize Plan | &nbsp; |
+| 25 | Trial Run of Plan Presentation | &nbsp; |
+| 26 | Course Conclusion and Reflections | Amulya, Joy. "Summary of Critical Moments Reflection." Center for Reflective Community Practice Working Paper 2004-06. Cambridge, MA: MIT, 2004. ([PDF]({{< baseurl >}}/sections/readings/criticalmoments)) |
+| 27 | Final Class |
